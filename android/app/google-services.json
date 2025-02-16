@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792794424247",
+    "project_id": "ninja-brew-crew-ffb47",
+    "storage_bucket": "ninja-brew-crew-ffb47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792794424247:android:59e83370302d736a29be32",
+        "android_client_info": {
+          "package_name": "com.CafeNew.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsZXiTAME2j14tErhGVTXA31_8qnTueA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
